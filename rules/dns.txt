@@ -2,8 +2,8 @@
 ! Description: This is an adblock filter list to block ads efficiently.
 ! Homepage: https://github.com/ykvhjnn/ad-filter
 ! Source: dns.txt
-! Version: 20250405223621
-! Last modified: 2025-04-05 22:36:20
+! Version: 20250406001321
+! Last modified: 2025-04-06 00:13:19
 ! Blocked domains: 80596
 !
 ||54.222.186.106^
